@@ -3,7 +3,7 @@
 
 | óra           | téma  | diasor | 
 | ------------- | ----- | ------ |
-| 1.  | [Language Modeling with N-Grams](https://github.com/ferenczizsani/nyelvtech/blob/master/n_gram/1_ngram.pdf) | [02. 14.](https://github.com/ferenczizsani/nyelvtech/blob/master/slides/ngram_models_02_14.pdf) |
+| 1.  | [Language Modeling with N-Grams](https://github.com/ferenczizsani/nyelvtech/blob/master/n_gram/1_ngram.pdf) | [intro](https://github.com/ferenczizsani/nyelvtech/blob/master/slides/nyelvtech_olvszem_intro.pdf), [ngrams](https://github.com/ferenczizsani/nyelvtech/blob/master/slides/ngram_models_02_14.pdf) |
 | 2.  | [Regular Expressions and Automata](https://github.com/rain1024/slp2-pdf/blob/master/chapter-wise-pdf/%5B02%5D%20Regular%20Expressions%20and%20Automata.pdf) | |
 | 3.  | [Words and Transducers](https://github.com/rain1024/slp2-pdf/blob/master/chapter-wise-pdf/%5B03%5D%20Words%20%26%20Transducers.pdf) | |
 | 4.  | [Constituency Grammars](https://github.com/ferenczizsani/nyelvtech/blob/master/constituency_gram/3_constituency_grammars.pdf) | |
