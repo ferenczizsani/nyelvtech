@@ -4,8 +4,8 @@
 | óra           | téma  | diasor | 
 | ------------- | ----- | ------ |
 | 1.  | [Language Modeling with N-Grams](https://github.com/ferenczizsani/nyelvtech/blob/master/n_gram/1_ngram.pdf) | [intro](https://github.com/ferenczizsani/nyelvtech/blob/master/slides/nyelvtech_olvszem_intro.pdf), [ngrams](https://github.com/ferenczizsani/nyelvtech/blob/master/slides/ngram_models_02_14.pdf) |
-| 2.  | [Regular Expressions and Automata](https://github.com/rain1024/slp2-pdf/blob/master/chapter-wise-pdf/%5B02%5D%20Regular%20Expressions%20and%20Automata.pdf) | |
-| 3.  | [Words and Transducers](https://github.com/rain1024/slp2-pdf/blob/master/chapter-wise-pdf/%5B03%5D%20Words%20%26%20Transducers.pdf) | |
+| 2.  | [Regular Expressions and Automata](https://github.com/ferenczizsani/nyelvtech/blob/master/regex_automata/2_regular_expressions_and_automata.pdf) | |
+| 3.  | [Words and Transducers](https://github.com/ferenczizsani/nyelvtech/blob/master/regex_automata/2_words_and_transducers.pdf) | |
 | 4.  | [Constituency Grammars](https://github.com/ferenczizsani/nyelvtech/blob/master/constituency_gram/3_constituency_grammars.pdf) | |
 | 5.  | [Constituency Parsing](https://github.com/ferenczizsani/nyelvtech/blob/master/constituency_gram/3_constituency_parsing.pdf) | |
 | 6.  | [Statistical Constituency Parsing](https://github.com/ferenczizsani/nyelvtech/blob/master/constituency_gram/3_statistical_constituency_parsing.pdf) | |
