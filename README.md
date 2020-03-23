@@ -3,8 +3,8 @@
 
 | óra           | téma  | diasor | 
 | ------------- | ----- | ------ |
-| 1.  | [Language Modeling with N-Grams](https://github.com/ferenczizsani/nyelvtech/blob/master/n_gram/1_ngram.pdf) | [intro](https://github.com/ferenczizsani/nyelvtech/blob/master/slides/nyelvtech_olvszem_intro.pdf), [ngrams](https://github.com/ferenczizsani/nyelvtech/blob/master/slides/ngram_models_02_14.pdf) |
-| 2.  | [Regular Expressions and Automata](https://github.com/ferenczizsani/nyelvtech/blob/master/regex_automata/2_regular_expressions_and_automata.pdf) | [automata](https://github.com/ferenczizsani/nyelvtech/blob/master/slides/automata.pdf) |
+| 1.  | [Language Modeling with N-Grams](https://github.com/ferenczizsani/nyelvtech/blob/master/n_gram/1_ngram.pdf) | [intro slides](https://github.com/ferenczizsani/nyelvtech/blob/master/slides/nyelvtech_olvszem_intro.pdf), [ngrams slides](https://github.com/ferenczizsani/nyelvtech/blob/master/slides/ngram_models_02_14.pdf) |
+| 2.  | [Regular Expressions and Automata](https://github.com/ferenczizsani/nyelvtech/blob/master/regex_automata/2_regular_expressions_and_automata.pdf) | [slides](https://github.com/ferenczizsani/nyelvtech/blob/master/slides/automata.pdf) |
 | 3.  | [Words and Transducers](https://github.com/ferenczizsani/nyelvtech/blob/master/regex_automata/2_words_and_transducers.pdf) | [slides](slides/words_and_transducer-3.pdf) |
 | 4.  | [Constituency Grammars](https://github.com/ferenczizsani/nyelvtech/blob/master/constituency_gram/3_constituency_grammars.pdf) | |
 | 5.  | [Constituency Parsing](https://github.com/ferenczizsani/nyelvtech/blob/master/constituency_gram/3_constituency_parsing.pdf) | [slides](slides/Constituency_Parsing_FK.pdf) |
