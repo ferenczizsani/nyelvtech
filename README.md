@@ -8,8 +8,8 @@
 | 3.  | [Words and Transducers](https://github.com/ferenczizsani/nyelvtech/blob/master/regex_automata/2_words_and_transducers.pdf) | [slides](slides/words_and_transducer-3.pdf) |
 | 4.  | [Constituency Grammars](https://github.com/ferenczizsani/nyelvtech/blob/master/constituency_gram/3_constituency_grammars.pdf) | |
 | 5.  | [Constituency Parsing](https://github.com/ferenczizsani/nyelvtech/blob/master/constituency_gram/3_constituency_parsing.pdf) | [slides](slides/Constituency_Parsing_FK.pdf) |
-| 6.  | [Statistical Constituency Parsing](https://github.com/ferenczizsani/nyelvtech/blob/master/constituency_gram/3_statistical_constituency_parsing.pdf) | |
-| 7.  | [Dependency Parsing](https://github.com/ferenczizsani/nyelvtech/blob/master/constituency_gram/3_dependency_parsing.pdf) | |
+| 6.  | [Statistical Constituency Parsing](https://github.com/ferenczizsani/nyelvtech/blob/master/constituency_gram/3_statistical_constituency_parsing.pdf) | [slides](slides/PCFG.pdf) |
+| 7.  | [Dependency Parsing](https://github.com/ferenczizsani/nyelvtech/blob/master/constituency_gram/3_dependency_parsing.pdf) | [slides](slides/deppars.pdf) |
 | 8.  | [Features and Unification](https://github.com/ferenczizsani/nyelvtech/blob/master/features_unification/4_features_and_unification.pdf) | |
 | 9.  | [Logical Representations of Sentence Meaning](https://github.com/ferenczizsani/nyelvtech/blob/master/word_senses/5_logical_representations_of_sentence_meaning.pdf) | |
 | 10.  | [Word Senses and WordNet](https://github.com/ferenczizsani/nyelvtech/blob/master/word_senses/5_word_senses_and_wordnet.pdf) | |
