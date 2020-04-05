@@ -10,7 +10,7 @@
 | 5.  | [Constituency Parsing](https://github.com/ferenczizsani/nyelvtech/blob/master/constituency_gram/3_constituency_parsing.pdf) | [slides](slides/Constituency_Parsing_FK.pdf) |
 | 6.  | [Statistical Constituency Parsing](https://github.com/ferenczizsani/nyelvtech/blob/master/constituency_gram/3_statistical_constituency_parsing.pdf) | [slides](slides/PCFG.pdf) |
 | 7.  | [Dependency Parsing](https://github.com/ferenczizsani/nyelvtech/blob/master/constituency_gram/3_dependency_parsing.pdf) | [slides](slides/deppars.pdf) |
-| 8.  | [Features and Unification](https://github.com/ferenczizsani/nyelvtech/blob/master/features_unification/4_features_and_unification.pdf) | |
+| 8.  | [Features and Unification](https://github.com/ferenczizsani/nyelvtech/blob/master/features_unification/4_features_and_unification.pdf) | [notes](https://github.com/makrai/notes/blob/master/jurafsky19-slp2-ch15-unification.md)|
 | 9.  | [Logical Representations of Sentence Meaning](https://github.com/ferenczizsani/nyelvtech/blob/master/word_senses/5_logical_representations_of_sentence_meaning.pdf) | |
 | 10.  | [Word Senses and WordNet](https://github.com/ferenczizsani/nyelvtech/blob/master/word_senses/5_word_senses_and_wordnet.pdf) | |
 | 11.  | [Vector Semantics and Embeddings](https://github.com/ferenczizsani/nyelvtech/blob/master/word_senses/5_vector_semantics_and_embedding.pdf) | |
