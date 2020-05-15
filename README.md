@@ -14,4 +14,5 @@
 | 9.  | [Logical Representations of Sentence Meaning](https://github.com/ferenczizsani/nyelvtech/blob/master/word_senses/5_logical_representations_of_sentence_meaning.pdf) | [slides](https://mittelholcz.github.io/notes/jurafsky2020/logrep.slides.html#/) |
 | 10.  | [Vector Semantics and Embeddings](https://github.com/ferenczizsani/nyelvtech/blob/master/word_senses/5_vector_semantics_and_embedding.pdf) | [slides](slides/vector_sem_fzs.pdf) |
 | 11.  | [Word Senses and WordNet](https://github.com/ferenczizsani/nyelvtech/blob/master/word_senses/5_word_senses_and_wordnet.pdf) |[slides](slides/wordnet_fzs.pdf) |
-| 12.  | [Machine Translation](https://github.com/ferenczizsani/nyelvtech/blob/master/machine_translation/6_machine_translation.pdf) | |
+| 12.  | [Neural Networks and Neural Language Models](http://web.stanford.edu/~jurafsky/slp3/7.pdf) | [slides](slides/neural_networks.pdf) |
+| 13.  | [Machine Translation](https://github.com/ferenczizsani/nyelvtech/blob/master/machine_translation/6_machine_translation.pdf) | |
